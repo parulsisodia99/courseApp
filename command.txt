@@ -1,0 +1,6 @@
+For api//
+
+Get - get somthing from server
+Post- post something in server
+Put - update something in server
+Delete - Delete from server
